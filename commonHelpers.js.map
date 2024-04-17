@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers.js","sources":["../src/main.js"],"sourcesContent":["// main.js\n\n// Простий приклад коду для демонстрації\nconsole.log('Це головний файл вашого проекту!');\n\n// Додайте свій власний код нижче\n"],"names":[],"mappings":"ssBAGA,QAAQ,IAAI,kCAAkC"}
