@@ -26,7 +26,7 @@ configurations, and a favorites page.
 1. Clone the repository:
    `git clone https://github.com/StasLiubinetskyi/learn-lingo.git`
 2. Install dependencies: `npm install`
-3. Run the application: `npm start`
+3. Start the development server: `npm run dev`
 
 ## Additional Tasks
 
